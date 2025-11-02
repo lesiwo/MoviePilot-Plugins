@@ -1,0 +1,14 @@
+{
+  "webhook_plus": {
+    "name": "webhook消息推送plus",
+    "description": "支持使用webhook发送消息通知。",
+    "labels": "消息通知",
+    "version": "1.0",
+    "icon": "webhook.png",
+    "author": "jxxghp & moded by lesiwo",
+    "level": 2,
+    "history": {
+      "v1.0": "test"
+    }
+  }
+}
