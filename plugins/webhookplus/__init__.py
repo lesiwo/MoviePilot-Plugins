@@ -13,7 +13,7 @@ from app.schemas.types import EventType, NotificationType
 from app.utils.http import RequestUtils
 
 
-class Webhook_plus(_PluginBase):
+class Webhookplus(_PluginBase):
     # 插件名称
     plugin_name = "Webhook消息通知plus"
     # 插件描述
