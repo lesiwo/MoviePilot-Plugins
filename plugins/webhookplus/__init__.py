@@ -23,9 +23,9 @@ class Webhookplus(_PluginBase):
     # 插件版本
     plugin_version = "1.1"
     # 插件作者
-    plugin_author = "jxxghp & moded by lesiwo"
+    plugin_author = "test"
     # 作者主页
-    author_url = "https://github.com/lesiwo"
+    author_url = "https://github.com/"
     # 插件配置项ID前缀 (修改以避免与旧配置冲突)
     plugin_config_prefix = "webhookplusmsg_"
     # 加载顺序
